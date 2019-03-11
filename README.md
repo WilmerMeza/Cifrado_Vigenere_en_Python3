@@ -28,3 +28,12 @@ Si tiene un Sistema Operativo Linux otorge permisos de ejecución al archivo **v
 ```
 chmod +x vigenere.py
 ```
+Para ejecutar el scipt escriba el siguiente comando:
+- En Windows:
+```
+python vigenere.py
+```
+- En Linux:
+```
+./vigenere.py
+```
