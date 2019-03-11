@@ -15,7 +15,7 @@ Fuente e información completa en: https://es.wikipedia.org/wiki/Cifrado_de_Vige
 
 Requerimientos
 ==============
-- Cualquier versión de Pythion 3 en adelante.
+- Cualquier versión de Python 3 en adelante.
 - Por el momento es indiferente el Sistema Operativo (Windows o Linux).
 
 Instalación
