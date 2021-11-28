@@ -29,7 +29,7 @@ Si tiene un Sistema Operativo Linux otorge permisos de ejecución al archivo **v
 chmod +x vigenere.py
 ```
 Para ejecutar el script escriba el siguiente comando:
-- En Windows:
+- En Windows::
 ```
 python vigenere.py
 ```
